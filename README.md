@@ -32,5 +32,5 @@
   <a href = "mailto:larissa.soaress@yahoo.com.br"><img src="https://img.shields.io/badge/-YahooMail-%23333?style=for-the-badge&logo=yahoomail&logoColor=white" target="_blank"></a>
 </div>
 
-Feito com 💜 por Larissa Soares 
+Feito com 💜 por Larissa Soares!
 ##
