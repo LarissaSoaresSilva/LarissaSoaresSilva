@@ -1,7 +1,7 @@
 ![capa](https://github.com/user-attachments/assets/64d3f6ef-503c-44eb-9f5d-5062fae30c75)
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=LarissaSoaresSilva&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&rank_icon=github" height="180" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=LarissaSoaresSilva&theme=buefy&show_icons=true&layout=compact" height="180" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaSoaresSilva&layout=compact&theme=buefy" height="180" width="400">
 </div>
 
