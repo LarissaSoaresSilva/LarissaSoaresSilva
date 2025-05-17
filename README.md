@@ -1,4 +1,4 @@
-![capa](https://github.com/user-attachments/assets/6307a72b-8ce5-40d6-b811-1132ac7890df)
+![capa](https://github.com/user-attachments/assets/64d3f6ef-503c-44eb-9f5d-5062fae30c75)
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=LarissaSoaresSilva&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&rank_icon=github" height="180" width="400">
